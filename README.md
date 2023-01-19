@@ -1,0 +1,1 @@
+# Newton-Quetion-Of-Day
