@@ -1,1 +1,1 @@
-# Newton-Quetion-Of-Day
+# Newton School Quetion Of The Day Solutions
