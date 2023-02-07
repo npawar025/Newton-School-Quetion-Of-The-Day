@@ -39,7 +39,7 @@ Sample Output 3
 2
 */
 
-//Both solutions are giving me MLE
+//Both solutions are giving me MLE - used buffereader
 
 import java.io.*; // for handling input/output
 import java.util.*; // contains Collections framework
